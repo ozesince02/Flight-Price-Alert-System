@@ -47,7 +47,7 @@ You can customize various aspects of this project, including the origin city, no
 
 ## Author
 
-[Your Name]
+Pulkit Choudhary
 
 ## License
 
